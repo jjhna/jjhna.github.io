@@ -9,26 +9,26 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96813",
-      "city": "Honolulu",
+      "postalCode": "96782",
+      "city": "Pearl City",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jjhna",
+        "url": "http://github.com/jjhna"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Jonathan Na",
+        "url": "https://www.linkedin.com/in/jonathan-na-565b20105"
       },
       {
-        "network": "twitter",
+        "network": "wordpress",
         "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "url": "https://jjhna.wordpress.com/"
       },
       {
         "network": "instagram",
