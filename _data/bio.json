@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "jonathan na",
         "url": "http://www.linkedin.com/in/jonathan-na-565b20105"
       },
       {
@@ -39,17 +39,19 @@
   },
   "interests": [
     {
-      "name": "Video Game Development",
+      "name": "Video Game Coding",
+      "keywords": [
+        "Video Games",
+        "Coding"
+      ]
+    },
+    {
+      "name": "",
       "keywords": [
       ]
     },
     {
-      "name": "Drums & Percussions",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Drawing",
+      "name": "e",
       "keywords": [
       ]
     }
