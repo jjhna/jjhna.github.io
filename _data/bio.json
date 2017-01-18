@@ -39,19 +39,17 @@
   },
   "interests": [
     {
-      "name": "Video Game Coding",
-      "keywords": [
-        "Video Games",
-        "Coding"
-      ]
-    },
-    {
-      "name": "",
+      "name": "Video Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "e",
+      "name": "Drums & Percussions",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Drawing",
       "keywords": [
       ]
     }
@@ -96,45 +94,6 @@
       "summary": "Worked as a Geospatial Intelligence Analyst for about four years in the US Active Army.",
       "highlights": [
         "https://www.youtube.com/watch?v=h_aB7Zn0494 and https://www.youtube.com/watch?v=xL_v3jtZxD4"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
