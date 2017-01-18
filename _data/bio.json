@@ -39,19 +39,17 @@
   },
   "interests": [
     {
-      "name": "Video Game Coding",
-      "keywords": [
-        "Video Games",
-        "Coding"
-      ]
-    },
-    {
-      "name": "",
+      "name": "Video Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "e",
+      "name": "Drums & Percussions",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Drawing",
       "keywords": [
       ]
     }
