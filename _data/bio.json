@@ -29,11 +29,6 @@
         "network": "wordpress",
         "username": "jjhna",
         "url": "https://jjhna.wordpress.com/"
-      },
-      {
-        "network": "slack",
-        "username": "jonathan_na",
-        "url": "https://ics314s17.slack.com/messages/@slackbot/"
       }
     ]
   },
