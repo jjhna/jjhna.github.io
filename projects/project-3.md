@@ -29,8 +29,6 @@ with random objects. Your job is to avoid all the lyrics and objects in order to
 
 A video example: https://www.youtube.com/watch?v=ycJ7VrzlSDM
 
-The source file: https://github.com/jjhna/UHM/tree/master/ICS%20111/Project%203
-
 <hr>
 
 <pre>
@@ -84,5 +82,5 @@ Want you teach it to me
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/jjhna/UHM/tree/master/ICS%20111/Project%203"><i class="large github icon "></i>jjhna/ICS111_final_project3</a>
 
