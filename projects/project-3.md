@@ -12,7 +12,7 @@ labels:
 summary: A game that uses the keyboard to drive a musical note to avoid letters from the song.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}https://jjhna.github.io/images/instructions.png">
+<img class="ui image" src="{{ site.baseurl }}/images/instructions.png">
 
 This project is from an assignment done in ICS 111 for the final project. It uses Java coding with Object Oritented Programming with:
 ●	File reading: To hold information of images to be used
