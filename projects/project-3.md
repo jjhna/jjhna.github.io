@@ -29,6 +29,8 @@ with random objects. Your job is to avoid all the lyrics and objects in order to
 
 A video example: https://www.youtube.com/watch?v=ycJ7VrzlSDM
 
+The source file: https://github.com/jjhna/UHM/tree/master/ICS%20111/Project%203
+
 <hr>
 
 <pre>
