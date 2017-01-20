@@ -1,57 +1,83 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/instructions.png
+title: ICS 111 Project 3
+permalink: projects/ICS_111_project3
+date: 2016
 labels:
-  - Lisp
+  - Java
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - ICS 111
+summary: A game that uses the keyboard to drive a musical note to avoid letters from the song.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/instructions.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This project is from an assignment done in ICS 111 for the final project. It uses Java coding with Object Oritented Programming with:
+●	File reading: To hold information of images to be used
+●	Arrays: To handle all of the different graphics that will be used
+●	Functions/Classes: Different graphics will require different behaviors
 
-To give you a flavor of the game, here is an excerpt from one run:
+This project contained 3 group members:
+●	Jess - Will write classes associated with animations
+●	Jiaqi - Will write main program
+●	Jonathan - Will write classes associated with interactive games
+
+The final project came out to a video game in which you play as a musical note, as the song plays the lyrics fly across the screen
+with random objects. Your job is to avoid all the lyrics and objects in order to survive the entire song. 
+
+A video example: https://www.youtube.com/watch?v=ycJ7VrzlSDM
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Want to be part of the video?
+Then use your keyboard to keep the vieo playing! Use your
+keyboard to dodge the upcoming lyrics
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
+<--------------------Instructions------------------------>
+w = move forward    a = rotate left
+s = move backward   d = rotate right
 <------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+START: To start the game press the spacebar button to start the game.
 
-pickup candle
-- you are now carrying the candle -
+LOSING: You have 20 lives to start out, everytime you touch a lyric you lose one life after 0 lives its game over.
 
-pickup match
-- you are now carrying the match -
+WINNING: To win the game you have to survive through the entire song
 
-light match candle
+SONG: Lesson Learnt by Aaron Taylor
 
-The candle is now lit. It illuminates everything in the room.
+LYRICS:
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+You would've thought that our love be gone by now 
+It seems that I'm here again, so where's my whole? 
+Every time the same again comes back around 
+If you don't learn to swim 
+Then you'll sink, and then you'll drown, 
+I guess that's a lesson learnt! 
+If you play with fire, 
+Baby, you are burnt! 
+I guess that's a lesson learnt! 
+If you play with fire, 
+You will probably burn 
+
+Is it my fault if I choose to let go? 
+The things that you've told me once or twice before 
+Maybe I'd probably not understand 
+The things that I, I don't know as a man 
+I guess that's a lesson learnt! 
+If you play with fire, 
+Baby, you are burnt! 
+I guess that's a lesson learnt! 
+If you play with fire, 
+You will probably burn 
+
+Want you teach it to me 
+Eh eh ehe eh eh 
+Want you teach it to me
+
 </pre>
 
 <hr>
