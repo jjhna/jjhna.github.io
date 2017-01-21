@@ -12,7 +12,11 @@ summary: How to buy the right computer.
 ---
 
 <div class="ui small rounded images">
+It's pretty cool...
   <img class="ui image" src="../images/comp1.jpg">
+  
+  
+  ...excpet when your trying to sleep...
   <img class="ui image" src="../images/comp2.jpg">
 </div>
 
