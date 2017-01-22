@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/comp1.jpg
+image: images/comp1.2.jpg
 title: Buying the right computer
 permalink: projects/computer
 date: 2017
