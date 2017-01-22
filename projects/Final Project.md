@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ICS 211.2.PNG
+image: images/instructions2.png
 title: ICS 111 Project 3
 permalink: projects/ICS_111_project3
 date: 2016
