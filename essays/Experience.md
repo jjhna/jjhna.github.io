@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: My expereince so far in computer science at UH Manoa
-date: 2017-20-01
+date: 2017-01-20
 labels:
   - ICS 314
   - UH Manoa
