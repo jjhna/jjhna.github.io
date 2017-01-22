@@ -18,24 +18,39 @@ In my opinion as much as I agree on Eric Raymond view on asking smart questions 
 Observation: Smart question
 
 Going back to Deepankar’s post he asks a simple question for his title post making it clear what he’s asking for. The question isn’t on par with the smarter section but mostly smart section. Here are some of the good points:
+
 1.	It’s a smart question
+
 2.	It’s on topic
+
 3.	The post is written with little or no spelling and grammar errors
+
 4.	Did a google search of the question, had a difficult time finding the answer making this question exceptional to the rule “Before You Ask”.
+
 5.	It has a meaningful header
+
 6.	Question is descriptive and using good format with a separate gray box for coding. 
+
 7.	Short and to the point, it’s just one paragraph long with additional short questions that further explain the question.
+
 Deepanakar asks a smart question and because of this he receives smart intelligent responses that helps him with his program.
 
 Observation: Dumb question
 
 On the other hand I did find a lot of bad questions in StackOverflow. For example these two questions by Bar Shema: http://stackoverflow.com/questions/41784940/google-in-app-purches-policy is a good example of bad question. 
+
 For Bar Shema some of the bad points are:
+
 1.	A bad header, his header for his post is generic and isn’t even a question at all.
+
 2.	His first statement that he hopes that this is right place to ask, making it a bad post. 
+
 3.	This question could be possibly found using google search.
+
 4.	The question is more suited towards google forums than stackoverflow.
+
 5.	Bad spelling errors in the header.
+
 It seems that Bar Shema is confused on where to put this post and it’s about google policy which would work best at a google forum Q & A page than stackoverflow. This is also not a coding problem but a policy question. Bar Shema also should’ve stated his header as a question and check for spelling errors. A good tip would’ve been to use Microsoft word to type it in for spelling and grammar. 
 
 Conclusion:
