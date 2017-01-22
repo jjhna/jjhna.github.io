@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: jjhna.github.io/images/instructions2.png
+image: images/instructions2.png
 title: ICS 111 Project 3
 permalink: projects/ICS_111_project3
 date: 2016
