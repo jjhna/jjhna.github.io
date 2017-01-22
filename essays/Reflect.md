@@ -13,7 +13,9 @@ E11: Reflect on smart questions
 
 Opinion:
 
-In my opinion as much as I agree on Eric Raymond view on asking smart questions I also believe on smart answers when replying to these smart questions. For example, in this smart question by Deepankar Bajpeyi: http://stackoverflow.com/questions/19316937/how-to-bind-bootstrap-datepicker-element-with-angularjs-ng-model the top answer he receives are very thought out and explains the solution in a few short sentences. However, if you were to scroll down you see most the answers to be quite broad and long. So even though I agree with smart questions, if you also give a stupid answer it negates the effort of the person to ask a smart question. 
+In my opinion as much as I agree on Eric Raymond view on asking smart questions I also believe on smart answers when replying to these smart questions. For example, in this smart question by Deepankar Bajpeyi: http://stackoverflow.com/questions/19316937/how-to-bind-bootstrap-datepicker-element-with-angularjs-ng-model 
+
+the top answer he receives are very thought out and explains the solution in a few short sentences. However, if you were to scroll down you see most the answers to be quite broad and long. So even though I agree with smart questions, if you also give a stupid answer it negates the effort of the person to ask a smart question. 
 
 Observation: Smart question
 
@@ -37,7 +39,7 @@ Deepanakar asks a smart question and because of this he receives smart intellige
 
 Observation: Dumb question
 
-On the other hand I did find a lot of bad questions in StackOverflow. For example these two questions by Bar Shema: http://stackoverflow.com/questions/41784940/google-in-app-purches-policy is a good example of bad question. 
+On the other hand I did find a lot of bad questions in StackOverflow. For example these two questions by Bar Shema: http://stackoverflow.com/questions/41784940/google-in-app-purches-policy 
 
 For Bar Shema some of the bad points are:
 
@@ -56,3 +58,8 @@ It seems that Bar Shema is confused on where to put this post and it’s about g
 Conclusion:
 
 I now recognize the difference between a smart and not smart question. This lesson did help me in improving myself to think twice before posting a question and use the tips given by Eric Raymond on asking questions the smart way. By doing so, I should receive smart answers and avoid being shunned by the internet community. 
+
+Links:
+http://stackoverflow.com/questions/19316937/how-to-bind-bootstrap-datepicker-element-with-angularjs-ng-model 
+
+http://stackoverflow.com/questions/41784940/google-in-app-purches-policy 
