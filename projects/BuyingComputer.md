@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: jjhna.github.io/images/comp1.2.jpg
+image: images/comp1.3.jpg
 title: Buying the right computer
 permalink: projects/computer
 date: 2017
