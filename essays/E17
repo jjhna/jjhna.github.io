@@ -1,4 +1,13 @@
-E17: Reflect on configuration management
+---
+layout: essay
+type: essay
+title: E17: Reflect on configuration management
+date: 2017-01-30
+labels:
+  - GitHub
+  - Configuration Management
+  - Git
+---
 
 “Configuration management” is a central software engineering skill. Without effective configuration management, it would be almost impossible for teams to build large and complex software systems and maintain them over time.
 
