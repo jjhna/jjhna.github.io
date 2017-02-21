@@ -11,9 +11,7 @@ labels:
 
 #Don’t dress like a bum
 
-19 Feb 2017
-
-Picture programmer in suit
+<img class="ui image" src="../images/callmeme.jpg">
 
 It’s a small joke but people will judge you based off how you look.
 
@@ -25,6 +23,7 @@ In every job that I’ve been too, a uniform was always required. Especially in 
 
 Which do you prefer cooked steak or raw steak? Now I prefer my steak cooked well done and would prefer to order it since I’m bad at cooking steak. That’s what Semantic UI does for you it gives you the multiple options to how you want your steak vs committing the time to cook that steak and possibly mess it up. 
 
+Example of regular old html
 ```
 .left {
 	  float: left;
