@@ -59,8 +59,9 @@ I just started using semantic UI so I really can’t point out any pros or cons 
 
 Which raised the question why don’t we use Twitter Bootstrap or this Zurb Foundation. Looking further into these two frameworks I noticed that they both look very professional. However, after digging even deeper I did find that there are some reasons why semantic UI is better at some parts that Twitter Bootstrap can’t do. For example, per this article: 
 
-https://www.upwork.com/hiring/development/twitter-bootstrap-vs-semantic-ui/ 
 Semantic UI is more difficult, making things difficult now won’t make it easier later and it requires more Javascript which is something we’re all currently learning. The best thing about Semantic UI is that its user friendly when typing in code hence the name semantic. 
+
+- https://www.upwork.com/hiring/development/twitter-bootstrap-vs-semantic-ui/ 
 
 ##Key Thoughts
 
@@ -69,4 +70,5 @@ Semantic UI is hard and it should be, nothing is easy in life and down the road 
 ##Resources: 
 
 https://www.slant.co/options/520/~semantic-ui-review#pros
+
 https://www.upwork.com/hiring/development/twitter-bootstrap-vs-semantic-ui/ 
