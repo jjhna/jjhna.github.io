@@ -51,10 +51,8 @@ However, it’s not all roses and daisies for semantic UI. Time and effort is ne
 ##The review
 I just started using semantic UI so I really can’t point out any pros or cons now. However, I did notice some reviews online that caught my attention: 
 
-<blockquote>
-CON Very large file size
-Packages are much bigger when comparing to Twitter Bootstrap or Zurb Foundation. – thermoplastics and Mike, https://www.slant.co/options/520/~semantic-ui-review#pros 
-<footer>
+	CON Very large file size
+	Packages are much bigger when comparing to Twitter Bootstrap or Zurb Foundation. – thermoplastics and Mike, https://www.slant.co/options/520/~semantic-ui-review#pros 
 
 Which raised the question why don’t we use Twitter Bootstrap or this Zurb Foundation. Looking further into these two frameworks I noticed that they both look very professional. However, after digging even deeper I did find that there are some reasons why semantic UI is better at some parts that Twitter Bootstrap can’t do. For example, per this article: 
 https://www.upwork.com/hiring/development/twitter-bootstrap-vs-semantic-ui/ 
