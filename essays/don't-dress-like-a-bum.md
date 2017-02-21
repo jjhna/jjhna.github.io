@@ -49,7 +49,12 @@ Seems like a lot of work just to affix some text or image
 However, it’s not all roses and daisies for semantic UI. Time and effort is needed when you’re learning how to use it and not everything turns out perfect. For example, when I first started using Semantic UI I noticed a huge learning curve. So far, it’s the hardest thing I’m learning from this class (and I thought underscore was difficult). But if I do get pass this wall that I’m facing I’m sure that Semantic UI will help make my website look professional something that I’ll even have a harder time doing by myself. After all, you have a harder time cooking that raw steak that you may mess up on. 
 
 ##The review
-	I just started using semantic UI so I really can’t point out any pros or cons now. However, I did notice some reviews online that caught my attention: 
+I just started using semantic UI so I really can’t point out any pros or cons now. However, I did notice some reviews online that caught my attention: 
+
+<blockquote>
+CON Very large file size
+Packages are much bigger when comparing to Twitter Bootstrap or Zurb Foundation. – thermoplastics and Mike, https://www.slant.co/options/520/~semantic-ui-review#pros 
+<footer>
 
 Which raised the question why don’t we use Twitter Bootstrap or this Zurb Foundation. Looking further into these two frameworks I noticed that they both look very professional. However, after digging even deeper I did find that there are some reasons why semantic UI is better at some parts that Twitter Bootstrap can’t do. For example, per this article: 
 https://www.upwork.com/hiring/development/twitter-bootstrap-vs-semantic-ui/ 
