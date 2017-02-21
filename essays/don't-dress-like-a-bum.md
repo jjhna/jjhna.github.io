@@ -11,7 +11,7 @@ labels:
 
 #Don’t dress like a bum
 
-<img class="ui image" src="../images/callmeme.jpg">
+<img class="ui image" src="../images/meme.jpg">
 
 It’s a small joke but people will judge you based off how you look.
 
