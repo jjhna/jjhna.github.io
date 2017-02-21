@@ -9,7 +9,6 @@ labels:
   - Frameworks
 ---
 
-# Don’t dress like a bum
 
 <img class="ui image" src="../images/meme.jpg">
 
