@@ -12,7 +12,7 @@ labels:
 
 <img class="ui image" src="../images/meme.jpg">
 
-It’s a small joke but people will judge you based off how you look.
+*It’s a small joke but do you really want your website to look like the guy on the left?
 
 ## What makes you look professional?
 
@@ -22,7 +22,7 @@ In every job that I’ve been too, a uniform was always required. Especially in 
 
 Which do you prefer cooked steak or raw steak? Now I prefer my steak cooked well done and would prefer to order it since I’m bad at cooking steak. That’s what Semantic UI does for you it gives you the multiple options to how you want your steak vs committing the time to cook that steak and possibly mess it up. 
 
-Example of regular old html
+Example of regular old html:
 ```
 .left {
 	  float: left;
@@ -42,7 +42,7 @@ Example of regular old html
 	}
 
 ```
-Seems like a lot of work just to affix some text or image
+*Seems like a lot of work just to affix some text or image and are you 100% sure it'll be correct?
 
 However, it’s not all roses and daisies for semantic UI. Time and effort is needed when you’re learning how to use it and not everything turns out perfect. For example, when I first started using Semantic UI I noticed a huge learning curve. So far, it’s the hardest thing I’m learning from this class (and I thought underscore was difficult). But if I do get pass this wall that I’m facing I’m sure that Semantic UI will help make my website look professional something that I’ll even have a harder time doing by myself. After all, you have a harder time cooking that raw steak that you may mess up on. 
 
