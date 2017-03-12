@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "First Week Of Meteor"
+title: "A Meteor In Space"
 date: 2017-03-11
 labels:
   - Software Engineering
