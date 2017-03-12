@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-<img class="ui image" src="../images/infographic.jpg">
+<img class="ui image" src="../images/infographic.png">
 
 *An infographic image on how Meteor works*
 
