@@ -39,7 +39,9 @@ Browser Listings
 
 
 New user goes to login page, user profile page, and sets up profile and their listing
+
 Admin goes to login page, admin homepage, and browser listings, edits site
+
 User is notified through email and website of any inquiries or matches.
 
 
@@ -47,5 +49,7 @@ User is notified through email and website of any inquiries or matches.
 
 
 Support reviews of other users, for any previous negative experience with a certain user (Star or thumbs up or down rating).
+
 A filter system for number of occupants their vehicle can hold, city, and school schedule.
+
 Email and website system to notify any users of inquires or matches. 
