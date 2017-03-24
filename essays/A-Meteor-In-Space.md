@@ -44,14 +44,4 @@ In conclusion, I can’t say a lot good things about Meteor, this is my first ti
 
 ## After learning Digits:
 
-I feel a lot more confident on what I'm doing with metoer and I feel like I'm entering the atmosphere of Earth at the moment. I'm haven't exactly hit Earth yet but I'm proud to say that I'm on the right track. I now feel like my previous issue that I had with the Javascript naming files is something of the past. I now made a chceklist to go through those problems and found the issue that I previously found annoying really easy. However I did discover new issues while coding through digits and the WOD. 
-	
-```
-Changed: 
-Template.Add_Contact_Page.events({
-                                  
-To:
-Template.Edit_Contact_Page.events({
-
-``` 
-
+I feel a lot more confident on what I'm doing with metoer and I feel like I'm entering the atmosphere of Earth at the moment. I'm haven't exactly hit Earth yet but I'm proud to say that I'm on the right track. I now feel like my previous issue that I had with the Javascript naming files is something of the past. I now made a chceklist to go through those problems and found the issue that I previously found annoying really easy. I really didn't have any further issues but what I did find annoying is the amount of files that had to be tracked. For instance creating a Home page meant that you had to keep track of a header, footer, index, and etc. If a file didn't point to the correct file then it could create a blank webpage or send meteor crashing. After getting passed that initial learning curve meteor doesn't look so scary now and I can appreciate the efficiency of the automatic updates, publications and MongoDB. I hope by the time I finish up my final project with my group members I'll be a subject matter expert on Meteor. 
