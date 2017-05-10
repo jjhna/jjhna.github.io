@@ -14,9 +14,9 @@ summary: A game that uses the keyboard to drive a musical note to avoid letters 
 
 <img class="ui image" src="{{ site.baseurl }}/images/instructions.png">
 
-This project is from an assignment done in ICS 111 for the final project. It uses Java coding with Object Oritented Programming with:
+This project is from an assignment done in ICS 111 for the final project. It uses Java coding with Object Oriented Programming with:
 ●	File reading: To hold information of images to be used
-●	Arrays: To handle all of the different graphics that will be used
+●	Arrays: To handle all the different graphics that will be used
 ●	Functions/Classes: Different graphics will require different behaviors
 
 This project contained 3 group members:
@@ -25,7 +25,7 @@ This project contained 3 group members:
 ●	Jonathan - Will write classes associated with interactive games
 
 The final project came out to a video game in which you play as a musical note, as the song plays the lyrics fly across the screen
-with random objects. Your job is to avoid all the lyrics and objects in order to survive the entire song. 
+with random objects. Your job is to avoid all the lyrics and objects to survive the entire song. 
 
 A video example: https://www.youtube.com/watch?v=ycJ7VrzlSDM
 
@@ -33,7 +33,7 @@ A video example: https://www.youtube.com/watch?v=ycJ7VrzlSDM
 
 <pre>
 Want to be part of the video?
-Then use your keyboard to keep the vieo playing! Use your
+Then use your keyboard to keep the video playing! Use your
 keyboard to dodge the upcoming lyrics
 
 <--------------------Instructions------------------------>
@@ -43,9 +43,9 @@ s = move backward   d = rotate right
 
 START: To start the game press the spacebar button to start the game.
 
-LOSING: You have 20 lives to start out, everytime you touch a lyric you lose one life after 0 lives its game over.
+LOSING: You have 20 lives to start out, every time you touch a lyric you lose one life after 0 lives its game over.
 
-WINNING: To win the game you have to survive through the entire song
+WINNING: To win the game you must survive through the entire song
 
 SONG: Lesson Learnt by Aaron Taylor
 
@@ -74,9 +74,9 @@ I guess that's a lesson learnt!
 If you play with fire, 
 You will probably burn 
 
-Want you teach it to me 
+Want you to teach it to me 
 Eh eh ehe eh eh 
-Want you teach it to me
+Want you to teach it to me
 
 </pre>
 
