@@ -27,11 +27,14 @@ This one little error must have caused my program to go through file edit-contac
 
 ## After Milestone 3
 
-	After milestone 3 my opinion on the naming convention changed. I realized that there are bigger issues that can affect the entire program. For example, one issue that I noticed was implementing semantic UI code into my program. Some of the JavaScript had to connect to a specific term that the user inputs. Another issue that I faced was coding the dividers properly
+After milestone 3 my opinion on the naming convention changed. I realized that there are bigger issues that can affect the entire program. For example, one issue that I noticed was implementing semantic UI code into my program. Some of the JavaScript had to connect to a specific term that the user inputs. Another issue that I faced was coding the dividers properly
+	
 For example:
+
 ```
 <div class="ui huge center aligned sixteen wide column">
 				Or
 <div class="ui vertical stripe quote segment">
 ```
+
 Position of the words can be crucial to make the program work. For example, “aligned center” would create problems making the app to not work or the word “large” instead of “huge” can drastically change the size of the image or header. 
