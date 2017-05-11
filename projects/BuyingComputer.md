@@ -14,16 +14,18 @@ summary: How to buy the right computer that suits your needs.
 
 <img class="ui image" src="{{ site.baseurl }}/images/comp1.jpg">
 
+
 <img class="ui image" src="{{ site.baseurl }}/images/comp2.jpg">
 
-It's pretty cool...  
-...except when your trying to sleep... 
 
-In order to buy the right computer there is a lot of questions that you have to answer. Some of these questions include:
+It's cool...to have 5 fans on your computer at night...
+...except when you’re trying to sleep... 
+
+To buy the right computer there is a lot of questions that you must answer. Some of these questions include:
 
 Do you need a computer outside your house? - laptop
 
-Are you heavy into video games - An intel core i7, with NVdia graphics card may be needed. ... etc.
+Are you heavy into video games - An intel core i7, with NVidia graphics card may be needed.
 
 To buy the right computer there is a lot of questions that you must answer.
 Some of these questions include: 
@@ -32,8 +34,6 @@ Some of these questions include:
 
 2. Are you heavy into video games - An intel core i7, with NVidia graphics card may be needed.
 ...
-etc.
-
 
 Since I play a lot of video games at home I decided to buy a desktop. However, since I had a lot of video games I was convinced by my friend to build a computer. To do this, I decided to build my own computer since it was also a lot more cheaper and more flexible to my budget. Why you might ask? Well if a computer part were to fail in a pre-packaged desktop you might not be able to buy a cheaper or expensive replacement part for your computer since the case might be too small or unsuitable. Just remember that the more money you spend means the more options you have but try to make a budge beforehand. 
 
