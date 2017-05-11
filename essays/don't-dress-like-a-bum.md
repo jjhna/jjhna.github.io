@@ -16,7 +16,7 @@ labels:
 
 ## What makes you look professional?
 
-In every job that I’ve been too, a uniform was always required. Especially in the military where an ink stain on your uniform meant that you had to go buy a new one if you couldn’t wash it off. Looking back, it does make sense why a manager or boss would be so picky on the appearance of your uniform. Someone wearing casual clothes at formal affair or a dirty uniform at military formation. The same can be said for any websites, a skewed menu or bad resolution of the image on your website can make it look terrible. Which is why uniformity is important and the best thing about them is that they were already made and built and all you had to do was wear it. Which is the purpose of Semantic UI’s to keep your whole website look professional with a uniform that’s built for you. After all you don’t dress like a bum when you talk to your boss or customers. 
+In every job that I’ve been too, a uniform was always required. Especially in the military where an ink stain on your uniform meant that you had to go buy a new one if you couldn’t wash it off. Looking back, it does make sense why a manager or boss would be so picky on the appearance of your uniform. Someone wearing casual clothes at formal affair or a dirty uniform at military formation. The same can be said for any websites, a skewed menu or bad resolution of the image on your website can make it look terrible. Which is why uniformity being important and the best thing about them is that they were already made and built and all you had to do was wear it. Which is the purpose of Semantic UI’s to keep your whole website look professional with a uniform that’s built for you. After all you don’t dress like a bum when you talk to your boss or customers. 
 
 ## Semantic UI’s vs Raw steak
 
@@ -57,7 +57,7 @@ I just started using semantic UI so I really can’t point out any pros or cons 
 
 Which raised the question why don’t we use Twitter Bootstrap or this Zurb Foundation. Looking further into these two frameworks I noticed that they both look very professional. However, after digging even deeper I did find that there are some reasons why semantic UI is better at some parts that Twitter Bootstrap can’t do. For example, per this article: 
 
-Semantic UI is more difficult, making things difficult now won’t make it easier later and it requires more Javascript which is something we’re all currently learning. The best thing about Semantic UI is that its user friendly when typing in code hence the name semantic. 
+Semantic UI is more difficult, making things difficult now won’t make it easier later and it requires more JavaScript which is something we’re all currently learning. The best thing about Semantic UI is that its user friendly when typing in code hence the name semantic. 
 
 - https://www.upwork.com/hiring/development/twitter-bootstrap-vs-semantic-ui/ 
 
@@ -69,4 +69,5 @@ Semantic UI is hard and it should be, nothing is easy in life and down the road 
 
 https://www.slant.co/options/520/~semantic-ui-review#pros
 
-https://www.upwork.com/hiring/development/twitter-bootstrap-vs-semantic-ui/ 
+https://www.upwork.com/hiring/development/twitter-bootstrap-vs-semantic-ui/
+
