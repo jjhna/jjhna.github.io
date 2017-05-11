@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/landing3.png
 title: Creating a carpool app
-permalink: projects/UHPool
+permalink: projects/creating_a_carpool_app
 date: 2017
 labels:
   - Carpool
