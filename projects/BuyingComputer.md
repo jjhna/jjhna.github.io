@@ -1,3 +1,30 @@
+---
+layout: project
+type: project
+image: images/comp1.jpg
+title: Buying a Computer
+permalink: projects/ICS_111_project3
+date: 2016
+labels:
+  - Computer
+  - Desktop
+  
+summary: How to buy the right computer that suits your needs.
+---
+
+<img class="ui image" src="{{ site.baseurl }}/images/comp1.jpg">
+
+<img class="ui image" src="{{ site.baseurl }}/images/comp2.jpg">
+
+It's pretty cool...  
+...except when your trying to sleep... 
+
+In order to buy the right computer there is a lot of questions that you have to answer. Some of these questions include:
+
+Do you need a computer outside your house? - laptop
+
+Are you heavy into video games - An intel core i7, with NVdia graphics card may be needed. ... etc.
+
 To buy the right computer there is a lot of questions that you must answer.
 Some of these questions include: 
 
