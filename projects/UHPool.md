@@ -28,4 +28,4 @@ This project contained 3 group members:
 
 The final project came out to a carpool app that the UH community could use to find other carpoolers in their area. 
 
-Source: <a href="https://github.com/jjhna/UHM/tree/master/ICS%20111/Project%203"><i class="large github icon "></i>UHPool Website</a>
+Source: <a href="https://uhpool.github.io/"><i class="large github icon "></i>UHPool Website</a>
