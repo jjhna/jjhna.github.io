@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/comp1.jpg
 title: Buying a Computer
-permalink: projects/BuyingComputer
-date: 2016
+permalink: projects/buying_a_computer
+date: 2017
 labels:
   - Computer
   - Desktop
