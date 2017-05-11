@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflect on smart questions
+title: Asking smart questions
 date: 2017-01-21
 labels:
   - Questions
