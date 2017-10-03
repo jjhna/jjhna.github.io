@@ -1,11 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "A Meteor In Space"
-date: 2017-03-11
+title: "HACC 2017 one heck of an experience"
+date: 2017-10-02
 labels:
-  - Software Engineering
-  - Meteor
+  - Angular
+  - Flask
+  - Python
+  - Atom
+  - Hackathon
+  - Team
 ---
 
 <img class="ui image" src="../images/infographic.png">
@@ -15,9 +19,9 @@ labels:
 ### Note: 
 I originally wrote this essay while I was on part 3 on digits (the due date was originally sooner) but after completing the WOD review on Thursday my feelings towards Meteor has changed. I have added additional thoughts in the After learning Digits section.
 
-## Space Rock
+## My thoughts on the HAAC 2017
 
-The average speed of a meteor hitting earth is about 160,000 mph. Which is unsurprisingly the name of the open source platform to build websites. However, for the past two weeks instead of hitting Earth I felt more like a meteor stuck in space missing my target. I’ll admit that I wasn’t really impressed by meteor at first it just seemed like IntelliJ and semantic UI with more steps. However, throughout the week as we learned more about Meteor it became a little bit more interesting as we learned about the benefits of using Meteor such as instant updates, Mongo and how customers have their own little private server to retrieve part of a bigger server. So, I right now I feel like heading towards Earth but at a slow pace and hopefully reach it by next week. 
+"I don't want to present my project" - I thought to myself as I went on stage. 
 	
 ## Issues
 
