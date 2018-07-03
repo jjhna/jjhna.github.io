@@ -101,7 +101,7 @@
       "startDate": "2016-01-01",
       "endDate": "2018-06-01",
       "gpa": "3.2",
-      "courses": "ICS 111, ICS 211, ICS 311" [
+      "courses":  [ "ICS 311, ICS 111"
       ]
     }
   ],
