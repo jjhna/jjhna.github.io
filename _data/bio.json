@@ -6,7 +6,7 @@
     "email": "jna6@hawaii.edu",
     "phone": "",
     "website": "https://jjhna.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am graduate student in B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -44,6 +44,21 @@
       ]
     },
     {
+      "name": "Medical field",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Drones",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "VR/AR applications",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Drums & Music",
       "keywords": [
       ]
@@ -57,6 +72,9 @@
         "Java",
         "Javascript",
         "HTML",
+        "LISP",
+        "C",
+        "C+",
         "CSS"
       ]
     },
@@ -69,6 +87,8 @@
         "IntelliJ",
         "Windows",
         "Eclipse",
+        "Unity",
+        "Angular",
         "Meteor"
       ]
     }
@@ -76,12 +96,12 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (graduated Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2016-01-01",
-      "endDate": "Present",
-      "gpa": "3.3",
-      "courses": [
+      "endDate": "2018-06-01",
+      "gpa": "3.2",
+      "courses": "ICS 111: A", "ICS 211: B" [
       ]
     }
   ],
