@@ -99,9 +99,10 @@
       "area": "Computer Science (graduated Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2016-01-01",
+      "courses": "ICS 111, ICS 211, ICS 311",
       "endDate": "2018-06-01",
       "gpa": "3.2",
-      "courses":  [ "ICS 311, ICS 111"
+      "courses":  [ 
       ]
     }
   ],
