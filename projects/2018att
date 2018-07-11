@@ -1,0 +1,68 @@
+---
+layout: project
+type: project
+image: images/ceres.png
+title: AT&T Hackathon and ICS 465 Project
+permalink: projects/2018att
+date: 2018
+labels:
+  - AT&T
+  - Hackathon
+  - Atom
+  - Bootstrap
+  - Google API
+  - AT&T M2X API
+  
+summary: Attending the AT&T Hackathon Feburary 2018
+---
+
+<img class="ui image" src="{{ site.baseurl }}/images/ceres.png">
+
+This project is from an assignment done in ICS 465 and for the 2018 annual AT&T hackathon. It uses basic coding with HTML, CSS and Javascript with:
+
+●	Atom: An IDE to create software. 
+
+●	Bootstrap: Front end framework to design the website
+
+●	Google API: API used to create a map for the website (backend)
+
+●	Highcharts: Interactive javascript library to build various different charts
+
+●	AT&T M2X API: Implement the use of the M2X API into the website through as the backend
+
+This project contained 3 other group members:
+
+●	Tsun: https://github.com/topspin808
+
+●	Nixon: https://github.com/nixonking-kcc
+
+● Jia Peng: https://github.com/jiapengz
+
+The final project came out to an app that the community could use to find other any future hazards or interest and correlate into one app. 
+
+Here are some links to the explanation of the app and its creation:
+
+<a href="https://docs.google.com/presentation/d/1cLOt4ml5RE8aEM-d7yXGomWTCkqIfkYh8yjnhsCiPZY/edit?usp=sharing"><i class="large google icon "></i>Midterm Slides</a>
+<a href="https://www.youtube.com/watch?v=VDvaLR9ylXI&feature=youtu.be"><i class="large youtube icon "></i>Youtube Midterm Presentation</a>
+
+<a href="https://docs.google.com/presentation/d/1FwcXvwNlsVe5ylOs4jqtdvH8CIM47wu8LM0Ki-d4T-8/edit?usp=sharing"><i class="large google icon "></i>Final Slides</a>
+<a href="https://www.youtube.com/watch?v=rDR5Hfd5eEo&feature=youtu.be"><i class="large youtube icon "></i>Youtube Final Presentation</a>
+
+Source: 
+
+<a href="https://ics465.github.io/src/template/">Ceres App</a>
+
+<a href="https://github.com/bigdimsum"><i class="large github icon "></i>Big Dim Sum (AT&T)</a>
+
+and
+
+<a href="https://github.com/ICS465/Ceres"><i class="large github icon "></i>Ceres (ICS 465)</a>
+
+Links to the AT&T 2018 Hackathon:
+
+<a href="https://attmobileapphackathon-hawaii.splashthat.com/">AT&T splash that website</a>
+
+and
+
+<a href="https://www.eventbrite.com/e/att-hackathon-hawaii-tickets-42514992487#">AT&T eventbrite website</a>
+
