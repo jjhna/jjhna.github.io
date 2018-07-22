@@ -47,4 +47,4 @@ In conclusion, as much as a fiasco that this hackathon was for me I wouldn't min
 
 <img class="ui image" src="../images/Experience.png">
 
-*Experience is the best teacher in the world*
+*As I state AGAIN: Experience is the best teacher in the world*
