@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ceres.png
+image: images/BR41N.jpg
 title: BR41N.io Hackathon Summer 2018
 permalink: projects/BR41N
 date: 2018
@@ -11,54 +11,45 @@ labels:
   - Unity
   - HTC VIVE
   - Simulink
-  - Matlab
   
 summary: Attending the BR41N.io Hackathon Summer 2018
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/CeresHome.JPG">
+<img class="ui image" src="{{ site.baseurl }}/images/BR41N.jpg">
 
-This project is from participation for the 2018 BR41N.io hackathon. It uses Matlab, Simulink and Unity:
+Our approach:
 
-●	Matlab: 
+**Enabling Scene Designers to create BCI VR/Games with less Unity C# development**
 
-●	Simulink: 
+This project is from participation for the 2018 BR41N.io hackathon. It uses Simulink and Unity:
 
-●	Unity: 
+●	Simulink: System simulation which auto-generate code for the program.
+
+●	Unity: A development cross-platform game engine.
 
 This project contained 3 other group members:
 
-●	<a href="https://github.com/topspin808"><i class="large github icon "></i>Tsun</a>
+●	<a href="https://github.com/MauiJerry"><i class="large github icon "></i>Jerry Isdale</a>
 
-●	<a href="https://github.com/nixonking-kcc"><i class="large github icon "></i>Nixon</a>
+●	<a href="https://github.com/zannorman"><i class="large github icon "></i>Charlie Zannorman</a>
 
-● <a href="https://github.com/jiapengz"><i class="large github icon "></i>Jia Peng</a>
+● Josh Bross
 
-The final project came out to an app that the community could use to find other any future hazards or interest and correlate into one app. 
+We encapsulate BCI data streams in Unity ScriptableObjects enabling Scene Designers to compose applications in Unity Editor rather than coding C#.
 
-Here are some links to the explanation of the app and its creation:
+Here is a link to the presentaion slides:
 
-<a href="https://docs.google.com/presentation/d/1cLOt4ml5RE8aEM-d7yXGomWTCkqIfkYh8yjnhsCiPZY/edit?usp=sharing"><i class="large google icon "></i>Midterm Slides</a>
-and
-<a href="https://www.youtube.com/watch?v=VDvaLR9ylXI&feature=youtu.be"><i class="large youtube icon "></i>Youtube Midterm Presentation</a>
+*requires UH Login or invitation* 
 
-<a href="https://docs.google.com/presentation/d/1FwcXvwNlsVe5ylOs4jqtdvH8CIM47wu8LM0Ki-d4T-8/edit?usp=sharing"><i class="large google icon "></i>Final Slides</a>
-and
-<a href="https://www.youtube.com/watch?v=rDR5Hfd5eEo&feature=youtu.be"><i class="large youtube icon "></i>Youtube Final Presentation</a>
+<a href="https://docs.google.com/presentation/d/1qGMmZckSgD-ZhXJu-6RnRfd9q0-GP7KBTcf9U5wOa-A/edit?usp=sharing"><i class="large google icon "></i>Presentation Slides</a>
 
 Source: 
 
-<a href="https://ics465.github.io/src/template/">Ceres App</a>
+<a href="https://github.com/zannorman/brainio_hackathon"><i class="large github icon "></i>Github link</a>
 
-and
-
-<a href="https://github.com/bigdimsum"><i class="large github icon "></i>Big Dim Sum (AT&T)</a>
-
-and
-
-<a href="https://github.com/ICS465/Ceres"><i class="large github icon "></i>Ceres (ICS 465)</a>
+*note we stopped halfway and switched to Unity Collab due to some continous errors using github*
 
 Links to the BR41N.io 2018 Hackathon:
 
-<a href="http://www.br41n.io/Honolulu-2018">AT&T splash that website</a>
+<a href="http://www.br41n.io/Honolulu-2018">BR41N.io website</a>
 
