@@ -27,7 +27,7 @@ This project contained 3 group members:
 The final project came out to a video game in which you play as a musical note, as the song plays the lyrics fly across the screen
 with random objects. Your job is to avoid all the lyrics and objects to survive the entire song. 
 
-A video example: https://www.youtube.com/watch?v=ycJ7VrzlSDM
+<a href="https://www.youtube.com/watch?v=ycJ7VrzlSDM"><i class="large youtube icon "></i>Youtube video example</a>
 
 <hr>
 
