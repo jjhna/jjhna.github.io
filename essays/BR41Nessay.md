@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "EEG to telekinetic powers"
-date: 2018-16-02
+date: 2018-07-16
 labels:
   - BR41N
   - Hackathon
