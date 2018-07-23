@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "HACC 2017 one heck of an experience"
+title: "HACC-(thon) 2017"
 date: 2017-10-02
 labels:
   - Angular
