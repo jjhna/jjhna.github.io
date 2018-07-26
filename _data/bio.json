@@ -123,28 +123,6 @@
       ]
     }
   ],
-  
-  "Hackathons": [
-    {
-      "title": "BR41N.IO Hackathon",
-      "date": "2018-July",
-      "awarder": "g.tec neurotechnology",
-      "summary": "See Projects section"
-    },
-    {
-      "title": "AT&T Hackathon",
-      "date": "2018-March",
-      "awarder": "AT&T",
-      "summary": "See Projects section"
-    },
-    {
-      "title": "HACC 2017",
-      "date": "2017-August",
-      "awarder": "Hawaii State Department",
-      "summary": "See Projects section"
-    }
-  ],
-  
   "awards": [
     {
       "title": "BR41N.IO Hackathon 2nd Place",
