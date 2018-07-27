@@ -108,6 +108,16 @@
       "gpa": "3.47",
       "courses":  [ "IOS 106, 114, 115, 116, 117, 123"
       ]
+    },
+    {
+      "institution": "John Hopkins Applied Physics Laboratory",
+      "area": "Tactical LIDAR Analyst Training",
+      "studyType": "Certificate",
+      "startDate": "2018-09-22",
+      "endDate": "2018-09-26",
+      "gpa": "",
+      "courses":  [ ""
+      ]
     }
   ],
   "work": [
