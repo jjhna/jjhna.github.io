@@ -68,6 +68,7 @@
         "Javascript",
         "HTML",
         "LISP",
+        "SQL",
         "C",
         "C+",
         "CSS"
@@ -83,6 +84,7 @@
         "Windows",
         "Eclipse",
         "Unity",
+        "jQuery",
         "Angular",
         "Meteor"
       ]
