@@ -93,6 +93,16 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (may graduate Spring, 2020)",
+      "studyType": "M.S.",
+      "startDate": "2018-08-01",
+      "endDate": "2020-06-01",
+      "gpa": "?",
+      "courses":  [ "ICS 674"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (graduated Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2016-01-01",
