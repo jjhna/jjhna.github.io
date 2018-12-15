@@ -21,11 +21,6 @@
         "url": "http://github.com/jjhna"
       },
       {
-        "network": "linkedin",
-        "username": "jonathan na",
-        "url": "http://www.linkedin.com/in/jonathan-na-565b20105"
-      },
-      {
         "network": "wordpress",
         "username": "jjhna",
         "url": "https://jjhna.wordpress.com/"
@@ -71,6 +66,7 @@
         "SQL",
         "C",
         "C+",
+        "C#",
         "CSS"
       ]
     },
@@ -98,7 +94,7 @@
       "startDate": "2018-08-01",
       "endDate": "2020-06-01",
       "gpa": "?",
-      "courses":  [ "ICS 674"
+      "courses":  [ "ICS 674, 612, 623, 668"
       ]
     },
     {
