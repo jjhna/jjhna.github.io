@@ -17,17 +17,17 @@
     "profiles": [
       {
         "network": "CV",
-        "username": "jjhna",
+        "username": "CV paper: jjhna.github.io/bio/",
         "url": "https://jjhna.github.io/bio/"
       },
       {
         "network": "github",
-        "username": "jjhna",
+        "username": "Github profile",
         "url": "http://github.com/jjhna"
       },
       {
         "network": "wordpress",
-        "username": "jjhna",
+        "username": "wordpress",
         "url": "https://jjhna.wordpress.com/"
       }
     ]
@@ -94,7 +94,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (may graduate Spring, 2020)",
+      "area": "Computer Science (may graduate Spring/Fall, 2020)",
       "studyType": "M.S.",
       "startDate": "2018-08-01",
       "endDate": "2020-06-01",
@@ -179,12 +179,6 @@
       "date": "2012-December",
       "awarder": "US Army",
       "summary": "One of the top graduates at Advance Individual Training at Fort Huachuca, Arizona. Did not fail a single test and maintained good behavior."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
