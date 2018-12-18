@@ -10,7 +10,6 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Waipahu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -24,11 +23,6 @@
         "network": "github",
         "username": "Github profile",
         "url": "http://github.com/jjhna"
-      },
-      {
-        "network": "wordpress",
-        "username": "wordpress",
-        "url": "https://jjhna.wordpress.com/"
       }
     ]
   },
