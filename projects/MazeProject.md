@@ -15,7 +15,7 @@ labels:
 summary: Final project for ICS 674
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Maze1.JPG">
+<img class="ui image" src="{{ site.baseurl }}/images/maze1.JPG">
 
 This project is from a final project done in ICS 674 Fall 2018 with Professor Lee Altenberg. It uses C# with the Unity Engine.
 
