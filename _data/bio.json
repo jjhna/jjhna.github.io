@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -134,6 +134,13 @@
       ]
     }
   ],
+  "papers and research": [
+    {
+      "title": "Evolutionary Computation with a Maze",
+      "date": "2018-December",
+      "summary": "Paper on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space.  <a href=https://jjhna.github.io/essays/MazePaper.html>Maze Paper</a>"
+    }
+  ],
   "awards": [
     {
       "title": "BR41N.IO Hackathon 2nd Place",
@@ -170,13 +177,6 @@
       "date": "2012-December",
       "awarder": "US Army",
       "summary": "One of the top graduates at Advance Individual Training at Fort Huachuca, Arizona. Did not fail a single test and maintained good behavior."
-    }
-  ]
-  "Papers/Research": [
-    {
-      "title": "Evolutionary Computation with a Maze",
-      "date": "2018-December",
-      "summary": "Paper on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space.  <a href=https://jjhna.github.io/essays/MazePaper.html>Maze Paper</a>"
     }
   ]
 }
