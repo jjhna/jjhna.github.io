@@ -89,7 +89,7 @@
       "studyType": "M.S.",
       "startDate": "2018-08-01",
       "endDate": "2020-06-01",
-      "gpa": "?",
+      "gpa": "3.2",
       "courses":  [ "ICS 674, (Currently attending: 612, 623, 668)"
       ]
     },
@@ -136,7 +136,7 @@
       "name": "Evolutionary Computation with a Maze",
       "publisher": "ICS 674 Final Project & Paper",
       "website": "https://jjhna.github.io/essays/MazePaper.html",
-      "summary": "Unpublished paper for ICS 674 final project on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space.  <a href=https://jjhna.github.io/essays/MazePaper.html>Maze Paper</a>"
+      "summary": "Unpublished paper for ICS 674 final project on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space."
     }
   ],
   "awards": [
