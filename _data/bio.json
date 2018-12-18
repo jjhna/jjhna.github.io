@@ -134,8 +134,9 @@
   "publications": [
     {
       "name": "Evolutionary Computation with a Maze",
-      "website": "https://jjhna.github.io/essays/MazePaper.html or https://github.com/jjhna/Mini/blob/master/Na%2C%20Jonathan%20ICS%20674%20Final%20Project%20Paper.pdf",
-      "summary": "ICS 674 final project unpublished paper on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space.  <a href=https://jjhna.github.io/essays/MazePaper.html>Maze Paper</a>"
+      "publisher": "ICS 674 Final Project & Paper",
+      "website": "https://jjhna.github.io/essays/MazePaper.html",
+      "summary": "Unpublished paper for ICS 674 final project on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space.  <a href=https://jjhna.github.io/essays/MazePaper.html>Maze Paper</a>"
     }
   ],
   "awards": [
