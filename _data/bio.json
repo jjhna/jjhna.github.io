@@ -129,16 +129,13 @@
       "startDate": "2012-01-04",
       "endDate": "2015-01-12",
       "summary": "Worked as a Geospatial Intelligence Analyst for about four years in the US Active Army.",
-      "highlights": [
-        ""
-      ]
     }
   ],
-  "papers and research": [
+  "publications": [
     {
-      "title": "Evolutionary Computation with a Maze",
-      "date": "2018-December",
-      "summary": "Paper on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space.  <a href=https://jjhna.github.io/essays/MazePaper.html>Maze Paper</a>"
+      "name": "Evolutionary Computation with a Maze",
+      "website": "https://jjhna.github.io/essays/MazePaper.html or https://github.com/jjhna/Mini/blob/master/Na%2C%20Jonathan%20ICS%20674%20Final%20Project%20Paper.pdf",
+      "summary": "ICS 674 final project unpublished paper on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space.  <a href=https://jjhna.github.io/essays/MazePaper.html>Maze Paper</a>"
     }
   ],
   "awards": [
@@ -177,6 +174,16 @@
       "date": "2012-December",
       "awarder": "US Army",
       "summary": "One of the top graduates at Advance Individual Training at Fort Huachuca, Arizona. Did not fail a single test and maintained good behavior."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+    },
+    {
+      "language": "Korean",
+      "fluency": "Able to read and speak",
     }
   ]
 }
