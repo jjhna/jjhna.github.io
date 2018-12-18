@@ -10,6 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "",
+      "city": "",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -33,17 +34,17 @@
       ]
     },
     {
-      "name": "Geospatial Intelligence Analysis",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Drones",
+      "name": "Data Visualization",
       "keywords": [
       ]
     },
     {
       "name": "VR/AR",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
@@ -61,12 +62,10 @@
         "Java",
         "Javascript",
         "HTML",
-        "LISP",
         "SQL",
         "C",
         "C+",
-        "C#",
-        "CSS"
+        "C#"
       ]
     },
     {
@@ -75,9 +74,7 @@
       "keywords": [
         "Ubuntu",
         "Git/GitHub",
-        "IntelliJ",
         "Windows",
-        "Eclipse",
         "Unity",
         "jQuery",
         "Angular",
@@ -173,6 +170,13 @@
       "date": "2012-December",
       "awarder": "US Army",
       "summary": "One of the top graduates at Advance Individual Training at Fort Huachuca, Arizona. Did not fail a single test and maintained good behavior."
+    }
+  ]
+  "Papers/Research": [
+    {
+      "title": "Evolutionary Computation with a Maze",
+      "date": "2018-December",
+      "summary": "Paper on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space.  <a href=https://jjhna.github.io/essays/MazePaper.html>Maze Paper</a>"
     }
   ]
 }
