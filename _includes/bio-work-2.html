@@ -38,6 +38,13 @@
         {% endfor %}
       </ul>
     {% endif %}
+    {% if entry.highlights2 %}
+        <ul style="margin: 0px;">
+          {% for highlight in entry.highlights2 %}
+          <li>{{ highlight }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
   </div>
 {% endfor %}
 
