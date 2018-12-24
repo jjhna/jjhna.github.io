@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Aiea",
+      "city": "Pearl City",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -136,7 +136,7 @@
       "name": "Evolutionary Computation with a Maze",
       "publisher": "ICS 674 Final Project & Paper",
       "website": "https://jjhna.github.io/essays/MazePaper.html",
-      "summary": "Unpublished paper for ICS 674 final project on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space."
+      "summary": "Research paper for ICS 674 final project on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space."
     }
   ],
   "awards": [
