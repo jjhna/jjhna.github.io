@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Pearl City",
+      "city": "",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -89,8 +89,8 @@
       "studyType": "(In Progress) M.S.",
       "startDate": "2018-08-01",
       "endDate": "2020-06-01",
-      "gpa": "3.2",
-      "courses":  [ "ICS 674, (Currently attending: 612, 623, 668)"
+      "gpa": "3.3",
+      "courses":  [ "ICS 674, (Currently attending: 623, 668)"
       ]
     },
     {
