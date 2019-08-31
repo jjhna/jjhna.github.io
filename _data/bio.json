@@ -6,7 +6,7 @@
     "email": "jna6@hawaii.edu",
     "phone": "",
     "website": "https://jjhna.github.io",
-    "summary": "I am graduate student in B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2018.",
+    "summary": "I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "VR/AR",
+      "name": "VR/AR/MR",
       "keywords": [
       ]
     },
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Lidar",
+      "name": "Medical Research/Development",
       "keywords": [
       ]
     }
@@ -63,6 +63,7 @@
         "Javascript",
         "HTML",
         "SQL",
+        "LISP",
         "C",
         "C+",
         "C#"
@@ -85,12 +86,12 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (may graduate Spring/Fall, 2020)",
+      "area": "Computer Science (will graduate Fall, 2020)",
       "studyType": "(In Progress) M.S.",
       "startDate": "2018-08-01",
-      "endDate": "2020-06-01",
-      "gpa": "3.3",
-      "courses":  [ "ICS 674, (Currently attending: 623, 668)"
+      "endDate": "2020-12-01",
+      "gpa": "3.72",
+      "courses":  [ "ICS 674, 623, 668, 419, 428, 660, 685, 690"
       ]
     },
     {
