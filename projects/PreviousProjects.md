@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/instructions2.png
 title: Previous projects
-permalink: projects/PreviousProjects
-date: 2016 to current
+permalink: projects/previousprojects
+date: 2016
 labels:
   - Projects
 summary: All previous listed projects
@@ -83,6 +83,7 @@ Want you to teach it to me
 Source: <a href="https://github.com/jjhna/UHM/tree/master/ICS%20111/Project%203"><i class="large github icon "></i>jjhna/ICS111_final_project3</a>
 
 
+
 <img class="ui image" src="{{ site.baseurl }}/images/frontpage3.JPG">
 
 This project is from an assignment done in ICS 491 for the 2017 annual HACC (hackathon). It uses Python coding with HTML, CSS and Javascript with:
@@ -110,8 +111,6 @@ Source: <a href="https://ohagrantwebsite.github.io/"><i class="large github icon
 and
 
 <a href="https://oha-grant-listings.herokuapp.com/">OHA Website</a>
-
-
 
 
 
