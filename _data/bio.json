@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Jonathan Na",
-    "label": "Student",
+    "label": "Graduate Student",
     "picture": "https://jjhna.github.io/images/jjhna.JPG",
     "email": "jna6@hawaii.edu",
-    "phone": "",
+    "phone": "8082191946",
     "website": "https://jjhna.github.io",
     "summary": "I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2018.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
+      "address": "311 Hoomalu St",
+      "postalCode": "96782",
+      "city": "Pearl City",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Medical Research/Development",
+      "name": "Military",
       "keywords": [
       ]
     }
@@ -62,10 +62,8 @@
         "Java",
         "Javascript",
         "HTML",
-        "SQL",
         "LISP",
-        "C",
-        "C+",
+        "C++",
         "C#"
       ]
     },
@@ -86,12 +84,12 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (will graduate Fall, 2020)",
+      "area": "Computer Science (expected graduation Spring, 2021)",
       "studyType": "(In Progress) M.S.",
       "startDate": "2018-08-01",
-      "endDate": "2020-12-01",
-      "gpa": "3.72",
-      "courses":  [ "ICS 674, 623, 668, 419, 428, 660, 685, 690"
+      "endDate": "2021-05-15",
+      "gpa": "3.75",
+      "courses":  [ "ICS 674, 623, 668, 419, 428, 660, 685, 690, 665, 699"
       ]
     },
     {
@@ -143,18 +141,6 @@
       "date": "2018-July",
       "awarder": "g.tec neurotechnology",
       "summary": "Received 2nd place in the <a href=https://jjhna.github.io/projects/BR41N>Summer 2018 BR41N.IO Hackathon</a> competition. https://jjhna.github.io/projects/BR41N"
-    },
-    {
-      "title": "AT&T Hackathon",
-      "date": "2018-March",
-      "awarder": "AT&T",
-      "summary": "Participated in <a href=https://jjhna.github.io/projects/2018att>AT&T 2018 Hackathon</a>. https://jjhna.github.io/projects/2018att"
-    },
-    {
-      "title": "HACC",
-      "date": "2017-August",
-      "awarder": "Hawaii State Department",
-      "summary": "Participated in <a href=https://jjhna.github.io/projects/HACC2017>HACC 2017 Hackathon</a>. https://jjhna.github.io/projects/HACC2017"
     },
     {
       "title": "The Army Achievement Medal",
