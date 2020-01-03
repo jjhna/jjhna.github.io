@@ -2,14 +2,12 @@
 layout: project
 type: project
 image: images/instructions2.png
-title: ICS 111 Project 3
-permalink: projects/ICS_111_project3
-date: 2016
+title: Previous projects
+permalink: projects/PreviousProjects
+date: 2016 to current
 labels:
-  - Java
-  - GitHub
-  - ICS 111
-summary: A game that uses the keyboard to drive a musical note to avoid letters from the song.
+  - Projects
+summary: All previous listed projects
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/instructions.png">
@@ -83,4 +81,59 @@ Want you to teach it to me
 <hr>
 
 Source: <a href="https://github.com/jjhna/UHM/tree/master/ICS%20111/Project%203"><i class="large github icon "></i>jjhna/ICS111_final_project3</a>
+
+
+<img class="ui image" src="{{ site.baseurl }}/images/frontpage3.JPG">
+
+This project is from an assignment done in ICS 491 for the 2017 annual HACC (hackathon). It uses Python coding with HTML, CSS and Javascript with:
+
+●	Angular: A Javascript based open source fraemwork for front end applications
+
+●	Atom: An IDE to create software. 
+
+●	Bootstrap: Front end framework to design the website
+
+●	Matplotlib: A plotting library to build 2D charts using Python
+
+●	Highcharts: Interactive javascript library to build various different charts
+
+This project contained 2 group members:
+
+●	Jonathan
+
+●	Vincent
+
+The final project came out to a carpool app that the UH community could use to find other carpoolers in their area. 
+
+Source: <a href="https://ohagrantwebsite.github.io/"><i class="large github icon "></i>OHA Github Website</a>
+
+and
+
+<a href="https://oha-grant-listings.herokuapp.com/">OHA Website</a>
+
+
+
+
+
+<img class="ui image" src="{{ site.baseurl }}/images/landing3.png">
+
+This project is from an assignment done in ICS 314 for the final project. It uses Java coding with HTML with:
+
+●	Meteor: An open source platform for web, mobile and desktop.
+
+●	IntelliJ: A Java IDE to create software. 
+
+●	Semantic UI: A website that gives professional user interface for websites.
+
+This project contained 3 group members:
+
+●	Jonathan
+
+●	Zac
+
+●	Joshua
+
+The final project came out to a carpool app that the UH community could use to find other carpoolers in their area. 
+
+Source: <a href="https://uhpool.github.io/"><i class="large github icon "></i>UHPool Website</a>
 
