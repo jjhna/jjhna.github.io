@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Evolutionary Computation",
       "keywords": [
       ]
     },
@@ -62,8 +62,6 @@
         "Java",
         "Javascript",
         "HTML",
-        "LISP",
-        "C++",
         "C#"
       ]
     },
@@ -73,11 +71,9 @@
       "keywords": [
         "Ubuntu",
         "Git/GitHub",
-        "Windows",
         "Unity",
         "jQuery",
-        "Angular",
-        "Meteor"
+        "Angular"
       ]
     }
   ],
@@ -89,7 +85,7 @@
       "startDate": "2018-08-01",
       "endDate": "2021-05-15",
       "gpa": "3.75",
-      "courses":  [ "ICS 674, 623, 668, 419, 428, 660, 685, 690, 665, 699"
+      "courses":  [ "Virtual and Augmented Reality, Social Informatics, Evolutionary Computation"
       ]
     },
     {
@@ -99,7 +95,7 @@
       "startDate": "2016-01-01",
       "endDate": "2018-06-01",
       "gpa": "3.2",
-      "courses":  [ "ICS 111, 141, 211, 212, 241, 311, 313, 314, 321, 332, 312, 414, 415, 465, 491"
+      "courses":  [ "Intro to Computer Science, Software Engineering, Algorithms"
       ]
     },
     {
@@ -109,11 +105,7 @@
       "startDate": "2018-01-01",
       "endDate": "2018-06-01",
       "gpa": "3.47",
-      "courses":  [ "Intro to Intel Ops Studies"
-      ],
-      "courses":  [ "Security Programs"
-      ],
-      "courses":  [ "Imagery Analysis Techniques"
+      "courses":  [ "Intro to Intel Ops Studies, Security Programs, Imagery Analysis Techniques"
       ]
     }
   ],
@@ -129,7 +121,7 @@
       ],
       "highlights2": [ "Conducted Full Motion Video (FMV) analysis in high ops tempo intelligence fusion environment"
       ],
-      "highlights3": [ "Formally holded a Top Secret clearance during service"
+      "highlights3": [ "Formally held a Top Secret clearance during service"
       ]
     }
   ],
