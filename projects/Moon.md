@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/BR41N.jpg
+image: images/moon1.JPG
 title: To the Moon VR
 permalink: projects/Moon
 date: 2019
@@ -14,8 +14,17 @@ labels:
 summary: VR project for ICS 685
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/BR41N.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/moon1.JPG">
 
+<img class="ui image" src="{{ site.baseurl }}/images/moon2.JPG">
+
+<img class="ui image" src="{{ site.baseurl }}/images/moon3.JPG">
+
+<img class="ui image" src="{{ site.baseurl }}/images/moon4.JPG">
+
+<img class="ui image" src="{{ site.baseurl }}/images/moon5.JPG">
+
+<img class="ui image" src="{{ site.baseurl }}/images/moon6.JPG">
 
 Our approach:
 
