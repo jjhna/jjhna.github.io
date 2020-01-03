@@ -16,39 +16,40 @@ summary: VR project for ICS 685
 
 <img class="ui image" src="{{ site.baseurl }}/images/BR41N.jpg">
 
+
 Our approach:
 
-**Enabling Scene Designers to create BCI VR/Games with less Unity C# development**
+**A VR game/simulator for a spaceship mission to reach the moon**
 
-This project is from participation for the 2018 BR41N.io hackathon. It uses Simulink and Unity:
+This is a class project for ICS 685: VR Development which uses the HTC VIVE and Unity:
 
-●	Simulink: System simulation which auto-generate code for the program.
+●	VR Challenger Center Mission: Return to the Moon
 
-●	Unity: A development cross-platform game engine.
+●	Loosely based off the Challenger missions from the Challenger center.
 
-This project contained 3 other group members:
+●	Return to the Moon - Create a lunar base and search for Helium-3. Probe team searches for suitable landing spot from 2 choices. Navigation team tries to land in the chosen landing spot. 
 
-●	<a href="https://github.com/MauiJerry"><i class="large github icon "></i>Jerry Isdale</a>
+* We decided to create a modified version of the return to the moon mission, adding some changes to allow us to adapt the experience to VR. *
 
-●	<a href="https://github.com/zannorman"><i class="large github icon "></i>Charlie Zannorman</a>
+●	There are two different stations in the challenger center missions:
+    1. Space Station (SS) - perform the tasks and mission
+    2. Mission Control - gives instructions and commands
 
-● Josh Bross
+●	Half the team works on the SS and the other half for mission control. Similar to the game “Keep Talking and Nobody Explodes”, someone is attempting to solve a puzzle while another person is giving instructions and suggestions.
 
-We encapsulate BCI data streams in Unity ScriptableObjects enabling Scene Designers to compose applications in Unity Editor rather than coding C#.
+●	Keeping it at a 20 minute experience, easy to learn for first time VR players
 
-Here is a link to the presentaion slides:
 
-*requires UH Login or invitation* 
+This project contained 2 other group members:
 
-<a href="https://docs.google.com/presentation/d/1qGMmZckSgD-ZhXJu-6RnRfd9q0-GP7KBTcf9U5wOa-A/edit?usp=sharing"><i class="large google icon "></i>Presentation Slides</a>
+●	Anna Sikkink
 
-Source: 
+●	Aidai Almaz Kyzy
 
-<a href="https://github.com/zannorman/brainio_hackathon"><i class="large github icon "></i>Github link</a>
 
-*note we stopped halfway and switched to Unity Collab due to some continous errors using github*
+We imported free Unity assets for the game objects and used the C# coding to utilize the gameobjects to their full potential and to tie in game events. 
 
-Links to the BR41N.io 2018 Hackathon:
+Here is a link to the demo video:
 
-<a href="http://www.br41n.io/Honolulu-2018">BR41N.io website</a>
+<a href="https://www.youtube.com/watch?v=EPg3sjmwZI0&feature=youtu.be"><i class="large youtube icon "></i>Moon Mission VR</a>
 
