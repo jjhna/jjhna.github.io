@@ -61,7 +61,7 @@
       "keywords": [
         "Java",
         "HTML",
-        "C++",
+        "CSS",
         "C#"
       ]
     },
@@ -69,8 +69,8 @@
       "name": "Familiar: Languages and Frameworks",
       "level": "",
       "keywords": [
+        "C++",
         "JavaScript",
-        "CSS",
         "C",
         "SQL",
         "LISP"
