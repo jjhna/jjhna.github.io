@@ -3,8 +3,8 @@
     "name": "Jonathan Na",
     "label": "Graduate Student",
     "picture": "https://jjhna.github.io/images/jjhna.JPG",
-    "email": "jna6@hawaii.edu",
-    "phone": "8082191946",
+    "email": "jjhna7@gmail.com",
+    "phone": "808-219-1946",
     "website": "https://jjhna.github.io",
     "summary": "I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2018.",
     "location": {
@@ -60,9 +60,7 @@
       "level": "",
       "keywords": [
         "Java",
-        "Javascript",
         "HTML",
-        "C",
         "C++",
         "C#"
       ]
@@ -74,7 +72,6 @@
         "Ubuntu/Linux",
         "Git/GitHub",
         "Unity",
-        "jQuery",
         "Angular"
       ]
     }
@@ -82,11 +79,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected graduation Spring, 2021)",
+      "area": "Computer Science (expected graduation Fall, 2020)",
       "studyType": "(In Progress) M.S.",
       "startDate": "2018-08-01",
-      "endDate": "2021-05-15",
-      "gpa": "3.75",
+      "endDate": "2020-12-15",
+      "gpa": "3.82",
       "courses":  [ "Virtual and Augmented Reality, Social Informatics, Evolutionary Computation"
       ]
     },
@@ -126,6 +123,12 @@
     }
   ],
   "publications": [
+    {
+      "name": "SAGE XR",
+      "publisher": "ICS 699 Capstone Project",
+      "website": "n/a",
+      "summary": "Capstone research paper for ICS 699 project on the implementation of the Scalable Amplified Group Environment Extended Reality (SAGE XR). The goal of the project is to bring a tiled wall display and desktop environment into a VR platform."
+    },
     {
       "name": "Evolutionary Computation with a Maze",
       "publisher": "ICS 674 Final Project & Paper",
