@@ -134,6 +134,8 @@ This project contained 3 group members:
 
 The final project came out to a carpool app that the UH community could use to find other carpoolers in their area. 
 
+Source: <a href="https://uhpool.github.io/"><i class="large github icon "></i>UHPool Website</a>
+
 
 <img class="ui image" src="{{ site.baseurl }}/images/BR41N.jpg">
 
@@ -172,7 +174,3 @@ Source:
 Links to the BR41N.io 2018 Hackathon:
 
 <a href="http://www.br41n.io/Honolulu-2018">BR41N.io website</a>
-
-
-Source: <a href="https://uhpool.github.io/"><i class="large github icon "></i>UHPool Website</a>
-
