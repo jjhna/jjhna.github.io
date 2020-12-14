@@ -13,4 +13,4 @@ labels:
 
 The paper can be found in this link: 
 
-<a href="https://drive.google.com/file/d/10oIAynEczjO76QM-pVszoYnaTzf1IRVG/view?usp=sharing"><i class="large google-drive icon "></i>SAGE XR Paper</a>
+<a href="https://drive.google.com/file/d/10oIAynEczjO76QM-pVszoYnaTzf1IRVG/view?usp=sharing"><i class="large google icon "></i>SAGE XR Paper</a>
