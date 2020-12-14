@@ -28,37 +28,31 @@ summary: VR project for ICS 685
 
 Our approach:
 
-**A VR game/simulator for a spaceship mission to reach the moon**
+A VR game/simulator for a spaceship mission to reach the moon
 
 This is a class project for ICS 685: VR Development which uses the HTC VIVE and Unity:
 
-●	VR Challenger Center Mission: Return to the Moon
+● VR Challenger Center Mission: Return to the Moon
 
-●	Loosely based off the Challenger missions from the Challenger center.
+● Loosely based off the Challenger missions from the Challenger center.
 
-●	Return to the Moon - Create a lunar base and search for Helium-3. Probe team searches for suitable landing spot from 2 choices. Navigation team tries to land in the chosen landing spot. 
+● Return to the Moon - Create a lunar base and search for Helium-3. Probe team searches for suitable landing spot from 2 choices. Navigation team tries to land in the chosen landing spot.
 
-●	This is done by implementing six essential features:
-    1. Web Browser
-    
-    2. User Experience (UX)
-    
-    3. Menu Canvas
-    
-    4. Inventory System
-    
-    5. Virtual Navigation
-    
-    6. Stickies
-    
+    We decided to create a modified version of the return to the moon mission, adding some changes to allow us to adapt the experience to VR. *
+
+● There are two different stations in the challenger center missions: 1. Space Station (SS) - perform the tasks and mission 2. Mission Control - gives instructions and commands
+
+● Half the team works on the SS and the other half for mission control. Similar to the game “Keep Talking and Nobody Explodes”, someone is attempting to solve a puzzle while another person is giving instructions and suggestions.
+
+● Keeping it at a 20 minute experience, easy to learn for first time VR players
+
 This project contained 2 other group members:
 
-●	Anna Sikkink
+● Anna Sikkink
 
-●	Aidai Almaz Kyzy
+● Aidai Almaz Kyzy
 
-
-We imported free Unity assets for the game objects and used the C# coding to utilize the gameobjects to their full potential and to tie in game events. 
+We imported free Unity assets for the game objects and used the C# coding to utilize the gameobjects to their full potential and to tie in game events.
 
 Here is a link to the demo video:
 
