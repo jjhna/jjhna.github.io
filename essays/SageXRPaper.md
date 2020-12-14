@@ -13,4 +13,4 @@ labels:
 
 The paper can be found in this link: 
 
-<a href="https://drive.google.com/file/d/10oIAynEczjO76QM-pVszoYnaTzf1IRVG/view?usp=sharing"><i class="large github icon "></i>Maze Paper</a>
+<a href="https://drive.google.com/file/d/10oIAynEczjO76QM-pVszoYnaTzf1IRVG/view?usp=sharing"><i class="large github icon "></i>SAGE XR Paper</a>
