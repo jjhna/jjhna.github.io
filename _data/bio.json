@@ -8,11 +8,11 @@
     "website": "https://jjhna.github.io",
     "summary": "I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2018.",
     "location": {
-      "address": "311 Hoomalu St",
-      "postalCode": "96782",
-      "city": "Pearl City",
+      "address": "9669 Crooked Creek Drive",
+      "postalCode": "45458",
+      "city": "Centerville",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Ohio"
     },
     "profiles": [
       {
@@ -69,8 +69,8 @@
       "name": "Familiar: Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C++",
         "JavaScript",
+        "C++",
         "C",
         "SQL",
         "LISP"
@@ -84,7 +84,7 @@
         "Git/GitHub",
         "Unity",
         "Steam VR",
-        "Visual Studio 2019"
+        "Visual Studio"
       ]
     },
     {
@@ -92,20 +92,20 @@
       "level": "",
       "keywords": [
         "Angular",
+        "Bootstrap",
         "Docker",
         "Eclipse",
         "React",
         "Ionic",
-        "jQuery",
-        "Bootstrap"
+        "jQuery"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected graduation Fall, 2020)",
-      "studyType": "(In Progress) M.S.",
+      "area": "Computer Science (graduated Fall, 2020)",
+      "studyType": "M.S.",
       "startDate": "2018-08-01",
       "endDate": "2020-12-18",
       "gpa": "3.82",
@@ -151,7 +151,7 @@
     {
       "name": "SAGE XR",
       "publisher": "ICS 699 Capstone Project",
-      "website": "Still in progress",
+      "website": "",
       "summary": "Capstone research paper for ICS 699 project on the implementation of the Scalable Amplified Group Environment Extended Reality (SAGE XR). The goal of the project is to bring a tiled wall display and desktop environment into a VR platform."
     },
     {
