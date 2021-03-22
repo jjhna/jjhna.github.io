@@ -121,16 +121,6 @@
       "gpa": "3.2",
       "courses":  [ "Intro to Computer Science, Software Engineering, Algorithms, Operating Systems, Web Programming"
       ]
-    },
-    {
-      "institution": "Cochise College of Arizona, Sierra Vista, AZ",
-      "area": "Intelligence Operations Studies (graduated Spring, 2018)",
-      "studyType": "A.A.S.",
-      "startDate": "2018-01-01",
-      "endDate": "2018-06-01",
-      "gpa": "3.47",
-      "courses":  [ "Intro to Intel Ops Studies, Security Programs, Imagery Analysis Techniques"
-      ]
     }
   ],
   "work": [
@@ -159,20 +149,6 @@
       "publisher": "ICS 674 Final Project & Paper",
       "website": "https://jjhna.github.io/essays/MazePaper.html",
       "summary": "Research paper for ICS 674 final project on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space."
-    }
-  ],
-  "awards": [
-    {
-      "title": "BR41N.IO Hackathon 2nd Place",
-      "date": "2018-July",
-      "awarder": "g.tec neurotechnology",
-      "summary": "Received 2nd place in the <a href=https://jjhna.github.io/projects/BR41N>Summer 2018 BR41N.IO Hackathon</a> competition. https://jjhna.github.io/projects/BR41N"
-    },
-    {
-      "title": "The Army Achievement Medal",
-      "date": "2014-November",
-      "awarder": "US Army",
-      "summary": "Received the Army Achievement Medal while stationed in Fort Gordon, Georgia."
     }
   ]
 }
