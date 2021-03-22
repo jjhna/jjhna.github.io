@@ -27,6 +27,33 @@
       }
     ]
   },
+    "interests": [
+    {
+      "name": "Video Game Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "VR/AR/MR",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Evolutionary Computation",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Military",
+      "keywords": [
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Fluent: Languages and Frameworks",
