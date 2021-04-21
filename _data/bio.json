@@ -1,17 +1,30 @@
 {
   "basics": {
-    "name": "Jonathan Nakamoto",
+    "name": "Jonathan Na",
     "label": "Graduate Student",
-    "email": "401resume@gmail.com",
-    "summary": "I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at Hawaii Pacific University. I graduated in Spring, 2018.",
+    "picture": "https://jjhna.github.io/images/jjhna.JPG",
+    "email": "jjhna7@gmail.com",
+    "phone": "808-219-1946",
+    "website": "https://jjhna.github.io",
+    "summary": "I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2018.",
     "location": {
-      "address": "412 Hookalu St",
-      "postalCode": "96816",
-      "city": "Kalihi",
+      "address": "9669 Crooked Creek Drive",
+      "postalCode": "45458",
+      "city": "Centerville",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Ohio"
     },
     "profiles": [
+      {
+        "network": "CV",
+        "username": "CV paper: jjhna.github.io/bio/",
+        "url": "https://jjhna.github.io/bio/"
+      },
+      {
+        "network": "github",
+        "username": "jjhna",
+        "url": "http://github.com/jjhna"
+      }
     ]
   },
     "interests": [
@@ -90,17 +103,17 @@
   ],
   "education": [
     {
-      "institution": "Hawaii Pacific University,
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (graduated Fall, 2020)",
       "studyType": "M.S.",
       "startDate": "2018-08-01",
       "endDate": "2020-12-18",
-      "gpa": "3.9",
+      "gpa": "3.82",
       "courses":  [ "Virtual and Augmented Reality, Social Informatics, Evolutionary Computation, Computer Architecture, Philosophy of Systems Design"
       ]
     },
     {
-      "institution": "Hawaii Pacific University, Honolulu, HI",
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (graduated Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2016-01-01",
@@ -110,4 +123,32 @@
       ]
     }
   ],
+  "work": [
+    {
+      "company": "US Army",
+      "position": "35G -Geospatial Intelligence Imagery Analyst",
+      "website": "",
+      "startDate": "2012-01-04",
+      "endDate": "2015-01-12",
+      "summary": "Responsible for analyzing overhead and aerial imagery developed by photographic and electronic means. Provided Army personnel with critical information about enemy forces, potential battle areas and combat operations support with a TS/SCI Clearance.",
+      "highlights": [ "Process, Exploitation, and Dissemination (PED) on: MSI, HSI, LIDAR, and SAR"
+      ],
+      "highlights2": [ "Conducted Full Motion Video (FMV) analysis in high ops tempo intelligence fusion environment with a TS/SCI Clearance."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "SAGE XR",
+      "publisher": "ICS 699 Capstone Project",
+      "website": "https://jjhna.github.io/essays/SageXRPaper.html",
+      "summary": "Capstone research paper for ICS 699 project on the implementation of the Scalable Amplified Group Environment Extended Reality (SAGE XR). The goal of the project is to bring a tiled wall display and desktop environment into a VR platform."
+    },
+    {
+      "name": "Evolutionary Computation with a Maze",
+      "publisher": "ICS 674 Final Project & Paper",
+      "website": "https://jjhna.github.io/essays/MazePaper.html",
+      "summary": "Research paper for ICS 674 final project on the research to explore the use of genetic algorithms to create computational agents that navigate mazes, with an examination of the performance of the variation operators and evaluation between two different types of fitness search space."
+    }
+  ]
 }
