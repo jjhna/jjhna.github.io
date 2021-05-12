@@ -72,15 +72,13 @@
         "JavaScript",
         "C++",
         "C",
-        "SQL",
-        "LISP"
+        "SQL"
       ]
     },
     {
       "name": "Fluent: Toolsets/OS",
       "level": "",
       "keywords": [
-        "Ubuntu/Linux",
         "Git/GitHub",
         "Unity",
         "Steam VR",
@@ -109,7 +107,7 @@
       "startDate": "2018-08-01",
       "endDate": "2020-12-18",
       "gpa": "3.82",
-      "courses":  [ "Virtual and Augmented Reality, Social Informatics, Evolutionary Computation, Computer Architecture, Philosophy of Systems Design"
+      "courses":  [ "Virtual and Augmented Reality, Social Informatics, Evolutionary Computation"
       ]
     },
     {
@@ -119,7 +117,7 @@
       "startDate": "2016-01-01",
       "endDate": "2018-06-01",
       "gpa": "3.2",
-      "courses":  [ "Intro to Computer Science, Software Engineering, Algorithms, Operating Systems, Web Programming"
+      "courses":  [ "Software Engineering, Algorithms, Web Programming"
       ]
     }
   ],
@@ -137,7 +135,7 @@
       ]
     }
   ],
-  "publications": [
+  "research": [
     {
       "name": "SAGE XR",
       "publisher": "ICS 699 Capstone Project",
