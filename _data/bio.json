@@ -122,6 +122,11 @@
       ]
     }
   ],
+  "awards": [
+    {
+      "title": "AWS Certified Cloud Practitioner",
+      "date": "June 2024",
+  ],
   "publications": [
     {
       "name": "SAGE XR",
