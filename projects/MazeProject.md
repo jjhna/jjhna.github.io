@@ -17,7 +17,7 @@ summary: Final project for ICS 674
 
 Here is a link to the demo video:
 
-<a href="https://drive.google.com/file/d/1G7B-Qh09t71M49yzF6-p7bfIKcYHSKeI/view?usp=sharing"><i class="large youtube icon "></i>Moon Mission VR</a>
+<a href="https://drive.google.com/file/d/1G7B-Qh09t71M49yzF6-p7bfIKcYHSKeI/view?usp=sharing"><i class="large youtube icon "></i>Maze Test</a>
 
 <img class="ui image" src="{{ site.baseurl }}/images/maze1.JPG">
 
@@ -29,4 +29,4 @@ The link to the paper can be found in the Mini Repo: <a href="https://github.com
 
 Here is a link to the demo video:
 
-<a href="https://drive.google.com/file/d/1G7B-Qh09t71M49yzF6-p7bfIKcYHSKeI/view?usp=sharing"><i class="large youtube icon "></i>Moon Mission VR</a>
+<a href="https://drive.google.com/file/d/1G7B-Qh09t71M49yzF6-p7bfIKcYHSKeI/view?usp=sharing"><i class="large youtube icon "></i>Maze Test</a>
