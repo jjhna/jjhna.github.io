@@ -15,6 +15,10 @@ labels:
 summary: Capstone project for Masters program plan B
 ---
 
+Here is a link to the poster video:
+
+<a href="https://drive.google.com/file/d/1wxsR3_8wgIE1nQXdux1PMmMfLicNA6SA/view?usp=sharing"><i class="large youtube icon "></i>SAGE XR Video</a>
+
 <img class="ui image" src="{{ site.baseurl }}/images/folio1.JPG">
 
 <img class="ui image" src="{{ site.baseurl }}/images/folio2.JPG">
