@@ -14,6 +14,10 @@ labels:
 summary: VR project for ICS 685
 ---
 
+Here is a link to the demo video:
+
+<a href="https://www.youtube.com/watch?v=EPg3sjmwZI0&feature=youtu.be"><i class="large youtube icon "></i>Moon Mission VR</a>
+
 <img class="ui image" src="{{ site.baseurl }}/images/moon1.JPG">
 
 <img class="ui image" src="{{ site.baseurl }}/images/moon2.JPG">
