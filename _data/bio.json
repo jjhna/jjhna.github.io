@@ -6,7 +6,7 @@
     "email": "jjhna7@gmail.com",
     "phone": "808-219-1946",
     "website": "https://jjhna.github.io",
-    "summary": "I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2018.",
+    "summary": "I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in December, 2020.",
     "location": {
       "address": "9669 Crooked Creek Drive",
       "postalCode": "45458",
@@ -94,7 +94,7 @@
       "startDate": "2018-08-01",
       "endDate": "2020-12-18",
       "gpa": "3.82",
-      "courses":  [ "Virtual and Augmented Reality, Social Informatics, Evolutionary Computation"
+      "courses":
       ]
     },
     {
@@ -104,7 +104,7 @@
       "startDate": "2016-01-01",
       "endDate": "2018-06-01",
       "gpa": "3.2",
-      "courses":  [ "Software Engineering, Algorithms, Web Programming"
+      "courses":  [
       ]
     }
   ],
