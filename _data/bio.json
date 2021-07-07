@@ -89,18 +89,14 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (graduated Fall, 2020)",
+      "area": "Computer Science (Aug 2018 - Dec 2020)",
       "studyType": "M.S.",
-      "startDate": "2018-08-01",
-      "endDate": "2020-12-18",
       "gpa": "3.82"
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (graduated Spring, 2018)",
+      "area": "Computer Science (Aug 2016 - May 2018)",
       "studyType": "B.S.",
-      "startDate": "2016-01-01",
-      "endDate": "2018-06-01",
       "gpa": "3.2"
     }
   ],
