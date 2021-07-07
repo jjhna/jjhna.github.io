@@ -93,9 +93,7 @@
       "studyType": "M.S.",
       "startDate": "2018-08-01",
       "endDate": "2020-12-18",
-      "gpa": "3.82",
-      "courses":
-      ]
+      "gpa": "3.82"
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -103,9 +101,7 @@
       "studyType": "B.S.",
       "startDate": "2016-01-01",
       "endDate": "2018-06-01",
-      "gpa": "3.2",
-      "courses":  [
-      ]
+      "gpa": "3.2"
     }
   ],
   "work": [
