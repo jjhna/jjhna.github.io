@@ -46,43 +46,66 @@
   ],
   "skills": [
     {
-      "name": "Fluent: Languages and Frameworks",
-      "level": "",
+      "name": "C#",
+      "level": "Fluent",
       "keywords": [
-        "Java",
-        "HTML",
-        "CSS",
-        "C#"
+        "Fluent"
       ]
     },
     {
-      "name": "Familiar: Languages and Frameworks",
-      "level": "",
+      "name": "HTML/CSS",
+      "level": "Intermediate",
       "keywords": [
-        "JavaScript",
-        "C++",
-        "C",
-        "SQL"
+        "Intermediate"
       ]
     },
     {
-      "name": "Fluent: Toolsets/OS",
-      "level": "",
+      "name": "Unity",
+      "level": "Fluent",
       "keywords": [
-        "Git/GitHub",
-        "Unity",
-        "Steam VR",
-        "Visual Studio"
+        "Fluent"
       ]
     },
     {
-      "name": "Familiar: Toolsets/OS",
-      "level": "",
+      "name": "Angular",
+      "level": "Intermediate",
       "keywords": [
-        "Angular",
-        "Linux",
-        "Bootstrap",
-        "Eclipse"
+        "Intermediate"
+      ]
+    },
+    {
+      "name": "Git/Github",
+      "level": "Intermediate",
+      "keywords": [
+        "Intermediate"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Intermediate"
+      ]
+    },
+    {
+      "name": "C++",
+      "level": "Intermediate",
+      "keywords": [
+        "Intermediate"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Novice",
+      "keywords": [
+        "Novice"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Novice",
+      "keywords": [
+        "Novice"
       ]
     }
   ],
