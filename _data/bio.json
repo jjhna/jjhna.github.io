@@ -47,69 +47,69 @@
   "skills": [
     {
       "name": "C#",
-      "level": "Fluent",
+      "level": "",
       "keywords": [
         "Fluent"
       ]
     },
     {
       "name": "Java",
-      "level": "Fluent",
+      "level": "",
       "keywords": [
         "Fluent"
       ]
     },
       "name": "Unity",
-      "level": "Fluent",
+      "level": "",
       "keywords": [
         "Fluent"
       ]
     },
     {
       "name": "HTML/CSS",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Intermediate"
       ]
     },
     {
       "name": "Angular",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Intermediate"
       ]
     },
     {
       "name": "Git/Github",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Intermediate"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Intermediate"
       ]
     },
     {
       "name": "C++",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Intermediate"
       ]
     },
     {
       "name": "SQL",
-      "level": "Novice",
+      "level": "",
       "keywords": [
         "Novice"
       ]
     },
     {
       "name": "Python",
-      "level": "Novice",
+      "level": "",
       "keywords": [
         "Novice"
       ]
