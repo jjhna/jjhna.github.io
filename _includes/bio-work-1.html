@@ -29,6 +29,13 @@
           {% endfor %}
         </ul>
         {% endif %}
+        {% if entry.highlights3 %}
+        <ul style="margin: 0px;">
+          {% for highlight in entry.highlights3 %}
+          <li>{{ highlight }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
       </div>
       <div class="four wide right aligned column no-bottom">
         <p class="ui no-bottom"><b>
