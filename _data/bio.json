@@ -6,7 +6,7 @@
     "email": "jjhna7@gmail.com",
     "phone": "808-219-1946",
     "website": "https://jjhna.github.io",
-    "summary": "I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in December, 2020.",
+    "summary": "Welcome to my portfolio! I am graduate student in M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Come look at my various projects ranging from web applicatiosn to VR below.",
     "location": {
       "address": "9669 Crooked Creek Drive",
       "postalCode": "45458",
@@ -128,19 +128,27 @@
       "area": "Computer Science (2016 - 2018)",
       "studyType": "B.S.",
       "gpa": "3.2"
+    },
+    {
+      "institution": "Cochise College, Sierra Vista, AZ",
+      "area": "Intelligence Operations Studies (2018)",
+      "studyType": "A.S.",
+      "gpa": ""
     }
   ],
   "work": [
     {
-      "company": "US Army",
+      "company": "US Army, 2012-2015",
       "position": "35G -Geospatial Intelligence Imagery Analyst",
       "website": "",
-      "startDate": "2012-01-04",
-      "endDate": "2015-01-12",
+      "startDate": "",
+      "endDate": "",
       "summary": "Responsible for analyzing overhead and aerial imagery developed by photographic and electronic means. Provided Army personnel with critical information about enemy forces, potential battle areas and combat operations support with a (inactive) TS/SCI Clearance.",
       "highlights": [ "Process, Exploitation, and Dissemination (PED) on: MSI, HSI, LIDAR, and SAR"
       ],
       "highlights2": [ "Conducted Full Motion Video (FMV) analysis in high ops tempo intelligence fusion environment with a (inactive) TS/SCI Clearance."
+      ],
+      "highlights3": [ "Worked in a collaborative team environment with sudden fasts sprints with a strict SOP: Standard Operating Procedure."
       ]
     }
   ],
@@ -165,6 +173,12 @@
       "website": "https://jjhna.github.io/essays/SageXRPaper.html",
       "summary": "Capstone research paper for ICS 699 project on the implementation of the Scalable Amplified Group Environment Extended Reality (SAGE XR). The goal of the project is to bring a tiled wall display and desktop environment into a VR platform."
     },
+    {
+      "name": "Moon Mission VR",
+      "publisher": "ICS 685 Final Project",
+      "website": "https://jjhna.github.io/projects/Moon",
+      "summary": "A VR game/simulator for a spaceship mission to reach the moon based off the challenger center mission, using Unity in C# and the HTC VIVE with a team. I created the majority of the VR features ranging from the design, sound, lighting, trigger events and interaction."
+    }
     {
       "name": "Evolutionary Computation with a Maze",
       "publisher": "ICS 674 Final Project & Paper",
