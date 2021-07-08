@@ -178,7 +178,7 @@
       "publisher": "ICS 685 Final Project",
       "website": "https://jjhna.github.io/projects/Moon",
       "summary": "A VR game/simulator for a spaceship mission to reach the moon based off the challenger center mission, using Unity in C# and the HTC VIVE with a team. I created the majority of the VR features ranging from the design, sound, lighting, trigger events and interaction."
-    }
+    },
     {
       "name": "Evolutionary Computation with a Maze",
       "publisher": "ICS 674 Final Project & Paper",
